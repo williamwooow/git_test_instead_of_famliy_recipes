@@ -1,5 +1,6 @@
 #My Favourite Video Games
-Games that I love and played:
-
-Terraria;    Dark Souls;    Hollow Knight;    Halo;
-Kenshi;    Ghost of Tsushima;    Outer Wild;    Titanfall;    
+Games series that I love and played:
+-Pokemon
+-Dark Souls
+  - [base] 
+-Halo
