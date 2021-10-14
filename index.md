@@ -1,6 +1,6 @@
 #My Favourite Video Games
 Games series that I love and played:
--Pokemon
+-Pokemon;
 -Dark Souls
-  - [base](Dark Souls Series/base.md)
--Halo
+  - [base](Dark Souls Series/base.md);
+-Halo;
